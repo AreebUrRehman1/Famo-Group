@@ -18,7 +18,7 @@ This project showcases the impressive speed and efficiency of the AI tool. By si
 demonstrating its potential for quick prototyping and development.
 
 🛠️ Technologies Used: 
-HTML, CSS, JavaScript, React
+HTML, CSS, JavaScript, React, Tailwind
 
 ⚙️ How to View the Project: 
 It published throught Netlify. You can view it on this website: "https://famogroupoman.netlify.app/"
