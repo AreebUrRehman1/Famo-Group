@@ -2,8 +2,8 @@ Famo-Group -
 A website generated in seconds using the power of a modern AI tool.
 
 📄 Overview: -
-This repository serves as a practical test and demonstration of Hostinger, a tool I recently acquired to explore the capabilities of AI-driven website generation.
-The entire site, including its structure, content, and basic styling, was created in just a few seconds using only a descriptive text prompt.
+This repository contains the Famo Group Oman website, which I built using an AI-driven tool. With just a descriptive text prompt, the AI generated the site’s structure, content,
+and styling almost instantly. This project demonstrates how AI can be used for rapid website creation and prototyping.
 
 ✨ The Prompt: 
 The website was generated using the following simple prompt:
@@ -14,8 +14,8 @@ AI-driven solutions, and digital marketing, a Projects or Portfolio section show
 and SEO-optimized, reflecting FAMO Group's innovative and tech-forward identity."
 
 🚀 The Result: 
-This project showcases the impressive speed and efficiency of the AI tool. By simply providing a textual description, the tool was able to rapidly produce a functional website, 
-demonstrating its potential for quick prototyping and development.
+By providing only this text description, I was able to create a fully functional website within seconds. The result highlights the potential of AI for fast, efficient,
+and professional website development.
 
 🛠️ Technologies Used: 
 HTML, CSS, JavaScript, React, Tailwind
